@@ -9,7 +9,7 @@ linguagem de Marcação da escola SENAI Jandira.
 ## Tecnologias
 * HTML
 * CSS
-* Marldown
+* Markdown
 * git
 & github
 
