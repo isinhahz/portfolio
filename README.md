@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-! [](./preview.png)
+![](./preview.png)
 
 ## Descrição
 Primeira página HTML com vinculo ao github, desenvolvido durante a disciplina de 
